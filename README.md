@@ -9,7 +9,7 @@ Three things we want to cover are:
     1. Basic Layout
     2. Issues
     3. Pull requests
-    4. COmmit history
+    4. Commit history
     
 2. How to use markdown or READmes and wiki
 3. How to use HTML and CSS for pages
@@ -22,8 +22,11 @@ A few languages that we discuss for programming:
 - Julia
 
 Tables are also helpful
-|Column 1|COulumn 2|
+| Syntax | Descripition |
 |--------|---------|
+| Row 1 | Value 1 |
+| Row 2 | Value 2 |
+| Row 3 | Value 3 |
 
 
 ## Level 2 Heading
