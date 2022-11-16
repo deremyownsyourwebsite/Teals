@@ -1,5 +1,5 @@
 # TEALS - Level 1 Heading
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deremyownsyourwebsite/Teals/HEAD)
 
 This is my text under level 1. This for the **Introduction to Software Technologies** class at *Towers High School*!  Links are easy to make - the high school can be found [here](https://www.towershs.dekalb.k12.ga.us/).
 
